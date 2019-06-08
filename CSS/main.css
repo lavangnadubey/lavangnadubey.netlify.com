@@ -32,7 +32,10 @@
     margin: 10px;
 
 }
-
+.foot{
+    background-color: aqua;
+    font-size: 25px;
+}
 .bottom-most{
     border: 3px solid rgb(12, 19, 15);
 }
